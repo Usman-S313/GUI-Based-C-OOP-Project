@@ -17,7 +17,7 @@ This application provides an intuitive interface for customers to rent vehicles,
 - GUI Framework: C++ Builder ,Rad Studio.
 
 *Getting Started:*
-1. Clone the repository: `git clone https://github.com/your-username/Car-Rental-Company-App.git`
+1. Clone the repository: `https://github.com/Usman-S313/GUI-Based-C-OOP-Project.git`
 2. Compile and run the application using your preferred C++ compiler and IDE
 
 
